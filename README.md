@@ -126,7 +126,7 @@ documentation/Documentary.docx
 
 ---
 
-## 👤 Author
+## Author
 
 Ambali Mustapha  
 Data Analyst (Financial & Business Analytics Focus)
